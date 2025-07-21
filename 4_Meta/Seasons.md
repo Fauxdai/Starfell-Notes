@@ -1,0 +1,12 @@
+- **Frostfall** - the snowiest month of the year
+- **Thawscrest** - the weather starts to warm a bit, things start to thaw
+- **Bloomrise** - spring is beginning, flowers start to pop up
+- **Stormwatch** - the rainiest month of the year
+- **Blossomtide** - Spring is in full force
+- **Sunsight** - start of summer, it's warmer
+- **Flamespeak** - The hottest month of the year, midsummer
+- **Emberglow** - The heat is still there, not as hot but still warm
+- **Harvestide** - Fall is starting, autumn harvest begins, things cool down a bit
+- **Goldwind** - The leaves are changing colors, and the leaves that fall from the trees make the wind literally look gold
+- **Leafdrift** - The leaves are all falling from the trees, it's cooling down, leaves blowing everywhere
+- **Starhaven** - the nights are getting longer, giving people more opportunities to see the stars, especially since the snowy weather doesn't really start until Frostfall
